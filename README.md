@@ -124,4 +124,4 @@ plt.show()
 
 # RESULT:
 
-Performed Data Visualization on a complex dataset and saveed the data to a file.
+Performed Data Visualization on a complex dataset and saved the data to a file.
